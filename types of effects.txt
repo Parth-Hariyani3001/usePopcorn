@@ -1,0 +1,13 @@
+useEffect(function () {
+  //   console.log("After the initial Render");
+  // }, []);
+
+  // useEffect(function () {
+  //   console.log("After Every Render");
+  // });
+
+  // useEffect(function(){
+  //   console.log("After the query state changes");
+  // },[query])
+
+  // console.log("During Render");
